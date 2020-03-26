@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "naziv":"Početna",
+        "href":"index.html"
+        
+    },
+    {
+        "id":1,
+        "naziv":"Patike",
+        "href":"patike.html"
+        
+    },
+    {
+        "id":2,
+        "naziv":"Torbe",
+        "href":"torbe.html"
+        
+    },
+    {
+        "id":3,
+        "naziv":"Trenerke",
+        "href":"trenerke.html"
+        
+    },
+    {
+        "id":4,
+        "naziv":"Kontakt",
+        "href":"kontakt.html"
+        
+    },
+    {
+        "id":5,
+        "naziv":"Autor",
+        "href":"autor.html"
+    }
+]

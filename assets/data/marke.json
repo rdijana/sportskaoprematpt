@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "slika":"assets/img/nikebrend.jpg",
+        "marka":"Nike",
+        "opis":"Kako bi stigao do cilja moraš prvo početi",
+        "tekst":"Nike jedan je od vodećih američkih proizvodjača sportske opreme.Sedište ove firme nalazi se u Oregonu.Nike je sponzor mnogih visoko rangiranih sportista"
+    },
+    {
+        "id":2,
+        "slika":"assets/img/adidasbrend.jpg",
+        "marka":"Adidas",
+        "opis":"Ne zadovoljavaj se prosečnim",
+        "tekst":"Adidas je nemački proizvodjač sportske opreme.Adidas je nejveći evropski proizvodjač sportske opreme.Logo ove firme predstavljaju tri paralelene crte."
+    },
+    {
+        "id":3,
+        "slika":"assets/img/reebokbrend.png",
+        "marka":"Under armour",
+        "opis":"Za sve koji vole klasiku",
+        "tekst":"Under Armour je američka kompanija koja proizvodi sportsku opremu.Globalno sedište kompanije nalazi se u Baltimore u državi Maryland."
+    }
+]

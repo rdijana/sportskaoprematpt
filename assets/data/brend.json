@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "slika":"assets/img/brend/NIKE.png"
+    },
+    {
+        "id":2,
+        "slika":"assets/img/brend/ADIDAS.png"
+    },
+    {
+        "id":3,
+        "slika":"assets/img/brend/ELLESSE.png"
+    },
+    
+    {
+        "id":4,
+        "slika":"assets/img/brend/NEW_BALANCE.png"
+    },
+    {
+        "id":5,
+         "slika":"assets/img/brend/champion.png"
+    },
+    {
+        "id":6,
+        "slika":"assets/img/brend/underArmour.png"
+    }
+]
