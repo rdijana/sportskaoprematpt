@@ -1,9 +1,9 @@
 [
     {
         "id":1,
+        "naziv":"NIKE PREMIUM",
         "marka":{
             "id":1,
-            "naziv":"NIKE PREMIUM",
             "nazivBrenda":"NIKE"
         },
         "slika":"assets/img/muskarci/nike2.png",
@@ -18,9 +18,9 @@
     },
     {
         "id":2,
+        "naziv":"NEW BALANCE 33",
         "marka":{
             "id":2,
-            "naziv":"NEW BALANCE 33",
             "nazivBrenda":"NEW BALANCE"
         },
         "slika":"assets/img/muskarci/new2.jpg",
@@ -35,9 +35,9 @@
     },
     {
         "id":3,
+        "naziv":"ADIDAS BTV",
         "marka":{
             "id":3,
-            "naziv":"ADIDAS BTV",
             "nazivBrenda":"ADIDAS" 
         },
         "slika":"assets/img/muskarci/adidas4.jpg",
@@ -53,9 +53,9 @@
     
     {
         "id":4,
+        "naziv":"ELLESSE RKP",
         "marka":{
             "id":4,
-            "naziv":"ELLESSE RKP",
             "nazivBrenda":"ELLESSE"  
         },
         "slika":"assets/img/muskarci/ellesse2.jpg",
@@ -70,9 +70,9 @@
     },
     {
         "id":5,
+        "naziv":"CHAMPION GHT",
         "marka":{
             "id":5,
-            "naziv":"CHAMPION GHT",
             "nazivBrenda":"CHAMPION" 
         },
         "slika":"assets/img/muskarci/champion1.jpg",
@@ -87,9 +87,9 @@
     },
     {
         "id":6,
+        "naziv":"UMBRO W3",
         "marka":{
             "id":6,
-            "naziv":"UMBRO W3",
             "nazivBrenda":"UMBRO"  
         },
         "slika":"assets/img/muskarci/umbro1.jpg",
@@ -104,9 +104,9 @@
     },
         {
             "id":7,
+            "naziv":"NIKE QW",
             "marka":{
                 "id":1,
-                "naziv":"NIKE QW",
                 "nazivBrenda":"NIKE"  
             },
             "slika":"assets/img/zene/nike2.jpg",
@@ -121,9 +121,9 @@
         },
         {
             "id":8,
+            "naziv":"NEW BALANCE 23",
             "marka":{
                 "id":1,
-                "naziv":"NEW BALANCE 23",
                 "nazivBrenda":"NEW BALANCE" 
             },
             "slika":"assets/img/zene/new4.jpg",
@@ -138,9 +138,9 @@
         },
        {
             "id":9,
+            "naziv":"ADIDAS XC",
             "marka":{
                 "id":3,
-                "naziv":"ADIDAS XC",
                 "nazivBrenda":"ADIDAS"
             },
             "slika":"assets/img/zene/adidas3.jpg",
@@ -156,9 +156,9 @@
         
         {
             "id":10,
+            "naziv":"ELLESSE YT",
             "marka":{
                 "id":4,
-                "naziv":"ELLESSE YT",
                 "nazivBrenda":"ELLESSE"
             },
             "slika":"assets/img/zene/ellesse1.jpg",
@@ -173,9 +173,9 @@
         },
         {
             "id":11,
+            "naziv":"CHAMPION Z",
             "marka":{
                 "id":5,
-                "naziv":"CHAMPION Z",
                 "nazivBrenda":"CHAMPION" 
             },
             "slika":"assets/img/zene/champion3.jpg",
@@ -190,9 +190,9 @@
         },
         {
             "id":12,
+            "naziv":"UMBRO KT",
             "marka":{
                 "id":6,
-                "naziv":"UMBRO KT",
                 "nazivBrenda":"UMBRO" 
             },
             "slika":"assets/img/zene/umbro3.jpg",
@@ -207,9 +207,9 @@
         },
         {
             "id":13,
+            "naziv":"NIKE KT",
             "marka":{
                 "id":1,
-                "naziv":"NIKE KT",
                 "nazivBrenda":"NIKE" 
             },
             "slika":"assets/img/torbe/nikeMuska1.jpg",
@@ -224,9 +224,9 @@
         },
         {
             "id":14,
+            "naziv":"NIKE MK",
             "marka":{
                 "id":1,
-                "naziv":"NIKE MK",
                 "nazivBrenda":"NIKE" 
             },
             "slika":"assets/img/torbe/nikeMuska2.jpg",
@@ -241,9 +241,9 @@
         },
         {
             "id":15,
+            "naziv":"ADIDAS WTR",
             "marka":{
                 "id":3,
-                "naziv":"ADIDAS WTR",
                 "nazivBrenda":"ADIDAS" 
             },
             "slika":"assets/img/torbe/adidasMuska1.jpg",
@@ -258,9 +258,9 @@
         },
         {
             "id":16,
+            "naziv":"ADIDAS QWR",
             "marka":{
                 "id":3,
-                "naziv":"ADIDAS QWR",
                 "nazivBrenda":"ADIDAS" 
             },
             "slika":"assets/img/torbe/adidasMuska2.jpg",
@@ -275,9 +275,9 @@
         },
         {
             "id":17,
+            "naziv":"UMBRO B23",
             "marka":{
                 "id":6,
-                "naziv":"UMBRO B23",
                 "nazivBrenda":"UMBRO" 
             },
             "slika":"assets/img/torbe/umbroMuska1.jpg",
@@ -292,9 +292,9 @@
         },
         {
             "id":18,
+            "naziv":"CHAMPION 123",
             "marka":{
                 "id":5,
-                "naziv":"CHAMPION 123",
                 "nazivBrenda":"CHAMPION" 
             },
             "slika":"assets/img/torbe/championMuska1.jpg",
@@ -309,9 +309,9 @@
         },
         {
             "id":19,
+            "naziv":"ADIDAS WF",
             "marka":{
                 "id":3,
-                "naziv":"ADIDAS WF",
                 "nazivBrenda":"ADIDAS" 
             },
             "slika":"assets/img/torbe/adidasZenska1.jpg",
@@ -326,9 +326,9 @@
         },
         {
             "id":20,
+            "naziv":"ADIDAS RQ",
             "marka":{
                 "id":3,
-                "naziv":"ADIDAS RQ",
                 "nazivBrenda":"ADIDAS" 
             },
             "slika":"assets/img/torbe/adidasZenska2.jpg",
@@ -343,9 +343,9 @@
         },
         {
             "id":21,
+            "naziv":"ADIDAS 34",
             "marka":{
                 "id":3,
-                "naziv":"ADIDAS 34",
                 "nazivBrenda":"ADIDAS" 
             },
             "slika":"assets/img/torbe/adidasZenska3.jpg",
@@ -360,9 +360,9 @@
         },
         {
             "id":22,
+            "naziv":"UNDER ARMOUR SS",
             "marka":{
                 "id":7,
-                "naziv":"UNDER ARMOUR SS",
                 "nazivBrenda":"UNDER ARMOUR" 
             },
             "slika":"assets/img/torbe/underZenska1.jpg",
@@ -377,9 +377,9 @@
         },
         {
             "id":23,
+            "naziv":"UNDER ARMOUR 5Y",
             "marka":{
                 "id":7,
-                "naziv":"UNDER ARMOUR 5Y",
                 "nazivBrenda":"UNDER ARMOUR" 
             },
             "slika":"assets/img/torbe/underZenska2.jpg",
@@ -394,9 +394,9 @@
         },
         {
             "id":24,
+            "naziv":"ELLESSE LK",
             "marka":{
                 "id":4,
-                "naziv":"ELLESSE LK",
                 "nazivBrenda":"ELLESSE" 
             },
             "slika":"assets/img/torbe/ellesseZenska1.jpg",
@@ -411,9 +411,9 @@
         },
         {
             "id":25,
+            "naziv":"ADIDAS 3K",
             "marka":{
                 "id":3,
-                "naziv":"ADIDAS 3K",
                 "nazivBrenda":"ADIDAS" 
             },
             "slika":"assets/img/trenerke/adidasZenska1.jpg",
@@ -428,9 +428,9 @@
         },
         {
             "id":26,
+            "naziv":"ADIDAS QW",
             "marka":{
                 "id":3,
-                "naziv":"ADIDAS QW",
                 "nazivBrenda":"ADIDAS" 
             },
             "slika":"assets/img/trenerke/championZenska2.jpg",
@@ -445,9 +445,9 @@
         },
         {
             "id":27,
+            "naziv":"CHAMPION NO",
             "marka":{
                 "id":5,
-                "naziv":"CHAMPION NO",
                 "nazivBrenda":"CHAMPION" 
             },
             "slika":"assets/img/trenerke/championZenska1.jpg",
@@ -462,9 +462,9 @@
         },
         {
             "id":28,
+            "naziv":"CHAMPION WU",
             "marka":{
                 "id":5,
-                "naziv":"CHAMPION WU",
                 "nazivBrenda":"CHAMPION" 
             },
             "slika":"assets/img/trenerke/championZenska3.jpg",
@@ -479,9 +479,9 @@
         },
         {
             "id":29,
+            "naziv":"CHAMPION MN",
             "marka":{
                 "id":5,
-                "naziv":"CHAMPION MN",
                 "nazivBrenda":"CHAMPION" 
             },
             "slika":"assets/img/trenerke/championMuska1.jpg",
@@ -496,9 +496,9 @@
         },
         {
             "id":30,
+            "naziv":"ADIDAS DS",
             "marka":{
                 "id":3,
-                "naziv":"ADIDAS DS",
                 "nazivBrenda":"ADIDAS" 
             },
             "slika":"assets/img/trenerke/adidasMuska1.jpg",
@@ -513,9 +513,9 @@
         },
         {
             "id":31,
+            "naziv":"NIKE MK",
             "marka":{
                 "id":1,
-                "naziv":"NIKE MK",
                 "nazivBrenda":"NIKE" 
             },
             "slika":"assets/img/trenerke/nikeMuska.jpg",
@@ -530,9 +530,9 @@
         },
         {
             "id":32,
+            "naziv":"NIKE 3R",
             "marka":{
                 "id":1,
-                "naziv":"NIKE 3R",
                 "nazivBrenda":"NIKE" 
             },
             "slika":"assets/img/trenerke/nikeMuska2.jpg",
@@ -547,9 +547,9 @@
         },
         {
             "id":33,
+            "naziv":"NIKE KL",
             "marka":{
                 "id":1,
-                "naziv":"NIKE KL",
                 "nazivBrenda":"NIKE" 
             },
             "slika":"assets/img/trenerke/nikeMuska3.jpg",
@@ -564,9 +564,9 @@
         },
         {
             "id":34,
+            "naziv":"NIKE P5",
             "marka":{
                 "id":1,
-                "naziv":"NIKE P5",
                 "nazivBrenda":"NIKE" 
             },
             "slika":"assets/img/trenerke/nikeMuska4.jpg",
